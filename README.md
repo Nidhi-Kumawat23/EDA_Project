@@ -1,2 +1,2 @@
-# EDA_Project
-analyzed financial dataset using python
+# Machine learning Project
+analyzed twitter dataset using python
